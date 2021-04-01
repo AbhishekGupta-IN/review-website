@@ -1,0 +1,68 @@
+* {
+    color: white;
+}
+
+body {
+    margin: 0px;
+}
+
+.heading {
+    margin: 1rem;
+}
+
+.heading span { 
+    background-color: #1D4ED8;
+    padding: 0.5rem 1rem;
+    font-size: 20px;
+    border: solid black 1px;
+}
+
+#txt-input {
+    margin: 1rem;
+    width: 50%;
+    height: 15vh;
+    background-color: #1D4ED8;
+    color: white;
+    border: solid black 0.5px;
+    resize: none;
+    font-size: 15px;
+}
+
+#btn-post {
+    margin: 0rem 1rem;
+    background-color: #1D4ED8;
+    padding: 0.5rem 1rem;
+    border: solid black 1px;
+    color: white;
+    font-size: 20px;
+}
+
+#rate {
+    margin: 0rem 30rem;
+}
+
+span button {
+    background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	cursor: pointer;
+	outline: inherit;
+    font-size: 40px;
+}
+
+.output-div {
+    background-color: #1D4ED8;
+    display: table;
+    margin: 0rem 1rem;
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    border: solid black 1px;
+    width: 60%;
+}
+
+.output-star {
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+    display: table;
+}
